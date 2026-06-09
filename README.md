@@ -1,2 +1,3 @@
-# awesomehomebrewgame
-my first nintendo homebrew project (i just open-sourced it lol)
+# template
+
+This is a template for starting new 3DS libctru projects.
